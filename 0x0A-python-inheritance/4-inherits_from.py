@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-"""
-method inherits_from
-"""
+"""method inherits_from"""
+
 
 def inherits_from(obj, a_class):
     '''Determines if an object is a true subclass of a class.'''
